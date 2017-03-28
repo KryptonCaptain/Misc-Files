@@ -1,0 +1,57 @@
+//YouTube
+
+"danger ahead" -> tutorial ep for emblems, exclamation haz
+"a new era begins" >53, dark tower
+
+#halloween themed
+"crossing your path" >54, black cat
+"beware the train" >55, crossbuck
+"toil and trouble" >56, witch hat
+"my name is Jack" >57, jacko lantern
+"bloodsucker" >58, bat
+"white as a ghast" >59, ghast
+"tells no tales" >60, skel head
+"are you ready for z-day?" >61 zombie head
+"trick or treat" >62, halloween
+
+"orlando" >63, minecon
+"durant special" >64, [119]
+"bakken crude" >65, oil drop
+"I have the power!" >66, lightning bolt
+"no acorns here" >67, oak sapling
+"white meat or dark meat" >68, turkey
+"light as a feather" >69, feather
+
+#christmas themed
+"its that season again" >70
+"every flake is unique" >71
+"big red ribbon" >72
+"just a little jingle" >73
+"welcoming christmas" >74
+"naughty or nice" >75
+"oh christmas tree" >76
+"first gift of christmas" >77
+"joy to the world" >78
+
+"wrong way" >79
+"out with a bang" >80, firework
+"red octagon" >81, stop sign
+"wild goose chase" >82, exclamation mark
+"frontier lawman" >83, sherrif star
+
+"loneliest number" >84, 1
+"as bad as one" >85, 2
+"trouble comes in threes" >86, 3
+"fantastic four" >87, 4
+"screwless software" >89, cog emblem thingy
+"high five" >90, 5
+
+//Twitter
+
+"crazy star" > rainbow star
+"linear story" > train ahead haz
+"MCMODCOM" > MC mod community logo
+"more nukes" > radiation haz 
+"turn right here" > right arrow
+"left, right? right!" > left arrow
+"break out the champagne" > airship
