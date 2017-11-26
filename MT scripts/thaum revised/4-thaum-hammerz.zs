@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded Thaumcraft hammerz
+#priority 2
 
 //Hammerz
 

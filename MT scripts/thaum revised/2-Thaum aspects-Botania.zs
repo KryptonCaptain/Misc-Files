@@ -2,6 +2,7 @@
 import mods.thaumcraft.Aspects;
 
 #modloaded Thaumcraft Botania
+#priority 2
 
 /* 
    Aspects.add = add aspects to items/blocks

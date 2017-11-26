@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded Thaumcraft aobd
+#priority 2
 
 //AOBD
 #Move research to alchemy and delete tab

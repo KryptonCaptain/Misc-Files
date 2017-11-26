@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded ForbiddenMagic hammerz
+#priority 2
 
 //Hammerz
 

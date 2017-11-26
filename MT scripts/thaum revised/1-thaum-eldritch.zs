@@ -1,5 +1,8 @@
 //Thaumcraft research tab adjustments
 
+#modloaded Thaumcraft
+#priority 5
+
 //restructure Eldritch tab and match some TC5 things
 
 //match TC5 reading book will unlock tab

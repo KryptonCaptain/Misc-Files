@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded Thaumcraft symcalc
+#priority 2
 
 //SymCalc
 //SYMMETRY_CALCULATOR

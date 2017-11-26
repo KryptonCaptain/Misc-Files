@@ -1,12 +1,13 @@
 //Thaumcraft research tab adjustments
 
+#modloaded Thaumcraft
+#priority 5
 
-//vanilla TC tweaks
+//tweak Artifice tab, add crafting recipes for dungeon stone blocks
 
 //make bellows not dependant on infernal furnace
 mods.thaumcraft.Research.clearPrereqs("BELLOWS");
 mods.thaumcraft.Research.setConcealed("FLUXSCRUB", true);
-
 
 
 //Add recipes for ancient stone types so I don't have to dungeon raid for building blocks

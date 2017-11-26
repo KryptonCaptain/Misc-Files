@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded Thaumcraft ThaumicMachina
+#priority 2
 
 //Thaumic Machina
 #Fix "Wand stability" research

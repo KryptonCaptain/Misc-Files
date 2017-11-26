@@ -2,6 +2,7 @@
 import mods.thaumcraft.Aspects;
 
 #modloaded Thaumcraft AWWayofTime
+#priority 2
 
 /* add = mods.thaumcraft.Aspects.add;
    set = "mods.thaumcraft.Aspects.set";

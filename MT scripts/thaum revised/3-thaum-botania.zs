@@ -1,6 +1,7 @@
 //Thaum Botania misc tab
 
 #modloaded Thaumcraft Botania
+#priority 3
 
 mods.thaumcraft.Research.addTab("BOTANIA", "botania", "textures/items/lexicon.png");
 game.setLocalization("en_US", "tc.research_category.BOTANIA", "Botanica");

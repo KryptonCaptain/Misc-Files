@@ -2,6 +2,7 @@
 import mods.thaumcraft.Aspects;
 
 #modloaded Thaumcraft TwilightForest
+#priority 4
 
 /* add = mods.thaumcraft.Aspects.add;
    set = "mods.thaumcraft.Aspects.set";
@@ -127,9 +128,9 @@ Aspects.set(<TwilightForest:tile.TFAuroraBrick>, "gelum 2, vitreus 2");
 
 Aspects.set(<TwilightForest:tile.TFUnderBrick>, "terra 2, tenebrae 2");
 
-Aspects.set(<TwilightForest:tile.TFUnderBrick:1>, "terra 2, tenebrae 2, perditio 1");
+Aspects.set(<TwilightForest:tile.TFUnderBrick:1>, "terra 2, tenebrae 2, herba 1");
 
-Aspects.set(<TwilightForest:tile.TFUnderBrick:2>, "terra 2, tenebrae 2, herba 1");
+Aspects.set(<TwilightForest:tile.TFUnderBrick:2>, "terra 2, tenebrae 2, perditio 1");
 
 Aspects.set(<TwilightForest:tile.TFThorns>, "herba 3, telum 3, mortuus 1");
 

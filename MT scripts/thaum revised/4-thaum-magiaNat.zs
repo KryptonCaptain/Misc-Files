@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
-#modloaded Thaumcraft magianaturalis
+#modloaded Thaumcraft Magia Naturalis
+#priority 2
 
 //Magia Naturalis
 #Research and recip for void sickle

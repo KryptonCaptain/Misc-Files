@@ -1,17 +1,10 @@
-//Thaum Botania misc tab
+//Thaum BloodMagic misc tab
 
 #modloaded Thaumcraft AWWayofTime arcanearteries
-
-/*
-sanguineHelmet
-sanguineRobe
-sanguinePants
-sanguineBoots
-
-*/
+#priority 3
 
 mods.thaumcraft.Research.addTab("BLOODMAGIC", "alchemicalwizardry", "textures/items/DaggerOfSacrifice.png");
-game.setLocalization("en_US", "tc.research_category.BLOODMAGIC", "Sanguinus");
+game.setLocalization("en_US", "tc.research_category.BLOODMAGIC", "Hemoturgy");
 
 mods.thaumcraft.Research.addResearch("BMBasics", "BLOODMAGIC", "victus 1", 0, 0, 1, <AWWayofTime:weakBloodShard>);
 mods.thaumcraft.Research.setStub("BMBasics", true);

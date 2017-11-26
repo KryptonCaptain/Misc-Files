@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded Thaumcraft Railcraft
+#priority 2
 
 //Railcraft
 mods.thaumcraft.Research.moveResearch("RC_Crowbar", "ARTIFICE", -10, 2);

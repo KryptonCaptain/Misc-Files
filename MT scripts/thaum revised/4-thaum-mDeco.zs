@@ -1,6 +1,7 @@
 //Thaumcraft research tab adjustments
 
 #modloaded Thaumcraft mdeco
+#priority 2
 
 //Magical Decorations
 #Move to artifice? and delete tab
