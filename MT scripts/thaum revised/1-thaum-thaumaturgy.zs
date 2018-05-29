@@ -80,6 +80,7 @@ mods.thaumcraft.Research.moveResearch("FOCUSWARDING","THAUMATURGY",3,3);
 mods.thaumcraft.Research.moveResearch("FOCUSHELLBAT","THAUMATURGY",3,-2);
 mods.thaumcraft.Research.addPrereq("FOCUSHELLBAT","FOCUSFIRE",false);
 mods.thaumcraft.Research.moveResearch("VAMPBAT","THAUMATURGY",4,-3);
+mods.thaumcraft.Research.setConcealed("VAMPBAT", true);
 
 
 
@@ -137,6 +138,7 @@ game.setLocalization("en_US","tc.research_page.PRIMALRODS.4","§l§nIcy Wand Cor
 game.setLocalization("en_US","tc.research_page.PRIMALRODS.5","§l§nQuartz Wand Core§r<BR>A wand core chiseled from nether quartz has slightly greater storage potential than greatwood cores. What makes it superior to greatwood cores however is that if the level of §7Ordo§0 stored inside it drops below 10%, its will slowly replenish without the use of a node.");
 game.setLocalization("en_US","tc.research_page.PRIMALRODS.6","§l§nBone Wand Core§r<BR>A bone used as a wand core has slightly greater storage potential than greatwood cores. What makes it superior to greatwood cores however is that if the level of §8Perditio§0 stored inside it drops below 10%, its will slowly replenish without the use of a node.");
 
+mods.thaumcraft.Research.setConcealed("PRIMALRODS", true);
 mods.thaumcraft.Research.addSibling("PRIMALRODS","ROD_reed");
 mods.thaumcraft.Research.addSibling("PRIMALRODS","ROD_obsidian");
 mods.thaumcraft.Research.addSibling("PRIMALRODS","ROD_blaze");
@@ -175,6 +177,7 @@ game.setLocalization("en_US","tc.research_name.PRIMALSTAVES","Elemental Staves")
 game.setLocalization("en_US","tc.research_text.PRIMALSTAVES","Elemental vis storage"); 
 game.setLocalization("en_US","tc.research_page.PRIMALSTAVES.1","Like the elemental wand cores, these stave cores are linked to a specific primal element which grants them additional abilities and slowly replenish their vis stores if they get low enough. They can store 175 vis of each type."); 
 
+mods.thaumcraft.Research.setConcealed("PRIMALSTAVES", true);
 mods.thaumcraft.Research.addSibling("PRIMALSTAVES","ROD_reed_staff");
 mods.thaumcraft.Research.addSibling("PRIMALSTAVES","ROD_obsidian_staff");
 mods.thaumcraft.Research.addSibling("PRIMALSTAVES","ROD_blaze_staff");

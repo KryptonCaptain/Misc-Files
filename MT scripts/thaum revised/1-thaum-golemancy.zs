@@ -80,17 +80,16 @@ mods.thaumcraft.Research.clearPrereqs("GOLEMSTRAW");
 mods.thaumcraft.Research.clearSiblings("GOLEMSTRAW");
 mods.thaumcraft.Research.moveResearch("GOLEMSTRAW","GOLEMANCY",-2,-2);
 
-mods.thaumcraft.Research.clearPrereqs("GOLEMCLAY");
-mods.thaumcraft.Research.clearPrereqs("GOLEMSTONE");
-mods.thaumcraft.Research.addPrereq("GOLEMSTONE","GOLEMWOOD",false);
-mods.thaumcraft.Research.addPrereq("GOLEMCLAY","GOLEMSTONE",false);
-
+//mods.thaumcraft.Research.clearPrereqs("GOLEMCLAY");
+//mods.thaumcraft.Research.clearPrereqs("GOLEMSTONE");
+//mods.thaumcraft.Research.addPrereq("GOLEMSTONE","GOLEMWOOD",false);
+//mods.thaumcraft.Research.addPrereq("GOLEMCLAY","GOLEMSTONE",false);
 
 mods.thaumcraft.Research.moveResearch("GOLEMWOOD","GOLEMANCY",-2,-4);
 mods.thaumcraft.Research.moveResearch("GOLEMFLESH","GOLEMANCY",-3,-3);
-mods.thaumcraft.Research.moveResearch("GOLEMCLAY","GOLEMANCY",-2,-6);
-mods.thaumcraft.Research.moveResearch("GOLEMTALLOW","GOLEMANCY",-4,-6);
-mods.thaumcraft.Research.moveResearch("GOLEMSTONE","GOLEMANCY",-1,-5);
+mods.thaumcraft.Research.moveResearch("GOLEMCLAY","GOLEMANCY",-1,-5); //-1,-5
+mods.thaumcraft.Research.moveResearch("GOLEMTALLOW","GOLEMANCY",1,-5);
+mods.thaumcraft.Research.moveResearch("GOLEMSTONE","GOLEMANCY",-2,-6);//-2,-6
 mods.thaumcraft.Research.moveResearch("GOLEMIRON","GOLEMANCY",-1,-7);
 mods.thaumcraft.Research.moveResearch("GOLEMTHAUMIUM","GOLEMANCY",1,-7);
 
