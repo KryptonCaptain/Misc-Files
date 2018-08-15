@@ -35,8 +35,6 @@
   - minmaxing+lore (few broken infusions though)
 - Thaumic Alchemy ([fork](https://github.com/KryptonCaptain/ThaumicAlchemy/releases))
   - Primarily used for essentia combiner
-
-
 - [Thaumcraft Minus Thaumcraft](https://minecraft.curseforge.com/projects/thaumcraft-minus-thaumcraft)
   - If you hate reeesearch
 - [Thaumic Sanity](https://minecraft.curseforge.com/projects/thaumic-sanity)
