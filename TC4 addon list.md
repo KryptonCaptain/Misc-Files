@@ -6,7 +6,7 @@
 - [Not Enough Thaumcraft Tabs](https://minecraft.curseforge.com/projects/notenoughthaumcrafttabs)
   - Only needed for more than 12 addon tabs
 - [Thaumcraft NEI plugin](https://minecraft.curseforge.com/projects/thaumcraft-nei-plugin)
-- _ ModTweaker (+req. CraftTweaker) _
+- _ModTweaker (+req. CraftTweaker) _
   - If you plan on using scripts 
 
 ### HIGH TIER
