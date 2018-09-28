@@ -12,11 +12,11 @@
 ### HIGH TIER
 - [Automagy](https://minecraft.curseforge.com/projects/automagy)
 - [Gadomancy](https://minecraft.curseforge.com/projects/gadomancy)
-- [Thaumic Horizons](https://minecraft.curseforge.com/projects/thaumic-horizons) (or hoborific's version)
+- [Thaumic Horizons](https://minecraft.curseforge.com/projects/thaumic-horizons) (or hoborific's version, also in \\MiscFiles\other mods\)
 
 ### GOOD TIER
 - [Forbidden Magic](https://minecraft.curseforge.com/projects/forbidden-magic)
-- Thaumic Tinkerer (hesitantly) ([fork](https://github.com/KryptonCaptain/ThaumicTinkerer/releases) or GTNH one)
+- Thaumic Tinkerer (hesitantly) ([fork](https://github.com/KryptonCaptain/ThaumicTinkerer/releases) )
   - Disable the fucking elemental fire though
 - Witching Gadgets ([fork](https://github.com/KryptonCaptain/WitchingGadgets/releases)) (+req.[Travellers Gear](https://minecraft.curseforge.com/projects/travellers-gear))
 
@@ -30,7 +30,7 @@
 - Magic Bees ([fork](https://github.com/KryptonCaptain/MagicBees/releases))
   - Bees can be pretty unbalanced sometimes, and this is no exception.
 - [Thaumic Dyes](https://minecraft.curseforge.com/projects/thaumic-dyes)
-  - New and upgraded armour sets
+  - New and upgraded armour sets. Successor to Thaumic Upholstery
 - Thaumic Machina
   - minmaxing+lore (few broken infusions though)
 - Thaumic Alchemy ([fork](https://github.com/KryptonCaptain/ThaumicAlchemy/releases))
