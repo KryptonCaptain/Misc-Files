@@ -67,6 +67,8 @@
   - If you can be bothered to config it. But, you can also set entity aspects using MT scripts
 - [Thaumic Errata](https://github.com/KryptonCaptain/ThaumErrata/releases)
   - Misc compat mod. WIP
+- [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)
+  - Various performance improvements. Book UI scaling (can replace T.Expanse).
 
 ### TRASH TIER
 - Thaumic Warden / Thaumic Revelations
@@ -103,14 +105,14 @@
 
 ### ModTweaker Scripts
 - Aspect Scripts
-  - [Botania](https://curseforge.com/minecraft/mc-mods/botania-aspects)
-  - [Blood Magic](https://curseforge.com/minecraft/mc-mods/aspects-of-bloodmagic)
-  - [Twilight Forest](https://curseforge.com/minecraft/mc-mods/twilight-aspects)
-  - [Grimoire of Gaia](https://curseforge.com/minecraft/mc-mods/aspects-of-gaia)
-  - [Et Futurum](https://curseforge.com/minecraft/mc-mods/et-futurum-aspects)
-  - [Erebus](https://curseforge.com/minecraft/mc-mods/erebus-aspects)
-  - [Aether II](https://curseforge.com/minecraft/mc-mods/logo-thaumcraft-aether-ii-aspect-integration)
-  - [Chisel](https://curseforge.com/minecraft/mc-mods/chisel-aspect)
+  - [Botania](https://www.curseforge.com/minecraft/customization/botania-aspects)
+  - [Blood Magic](https://curseforge.com/minecraft/customization/aspects-of-bloodmagic)
+  - [Twilight Forest](https://curseforge.com/minecraft/customization/twilight-aspects)
+  - [Grimoire of Gaia](https://curseforge.com/minecraft/customization/aspects-of-gaia)
+  - [Et Futurum](https://curseforge.com/minecraft/customization/et-futurum-aspects)
+  - [Erebus](https://curseforge.com/minecraft/customization/erebus-aspects)
+  - [Aether II](https://curseforge.com/minecraft/customization/logo-thaumcraft-aether-ii-aspect-integration)
+  - [Chisel](https://curseforge.com/minecraft/customization/chisel-aspect)
 - Tweaks
-  - [Tidy Research Tabs](https://curseforge.com/minecraft/mc-mods/tidy-research-tabs)
+  - [Tidy Research Tabs](https://curseforge.com/minecraft/customization/tidy-research-tabs)
     - Cleans up AOBD / Railcraft / RotaryCraft tabs into existing tabs
