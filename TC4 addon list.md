@@ -7,6 +7,8 @@
   - Only needed for more than 12 addon tabs
 - [Thaumic Expanse](https://www.dropbox.com/sh/oi7fz6twq952e5s/AACR6nulfVgfmjk3ZB4k4Fl_a)
   - Hate that the book UI is tiny? This fixes that.
+- [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)
+  - Replaces both [Thaumic Expanse](https://www.dropbox.com/sh/oi7fz6twq952e5s/AACR6nulfVgfmjk3ZB4k4Fl_a) & [Not Enough Thaumcraft Tabs](https://curseforge.com/minecraft/mc-mods/notenoughthaumcrafttabs).
 - [Thaumcraft NEI plugin](https://curseforge.com/minecraft/mc-mods/thaumcraft-nei-plugin)
 - _[ModTweaker](https://www.curseforge.com/minecraft/mc-mods/modtweaker) (+req. [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker))_
   - If you plan on using scripts 
