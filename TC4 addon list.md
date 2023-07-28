@@ -69,6 +69,8 @@
   - Misc compat mod. WIP
 - [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)
   - Various performance improvements. Book UI scaling (can replace T.Expanse).
+- [Alchemy Grate](https://www.curseforge.com/minecraft/mc-mods/alchemy-grate)
+  - Like the Item Grate, but for the Advanced Alchemical Furnace, to allow greater input control.
 
 ### TRASH TIER
 - Thaumic Warden / Thaumic Revelations
